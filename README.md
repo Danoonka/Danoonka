@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bohdana Ostrovska
-- I'm a fourth-year student of National Technical University of Ukraine Igor Sikorsky Kyiv polytechnic institute. I'm studying in the informatics and calculation techniques department. I Specialize in hardware engineering.
-- I’m currently learning React JS
+- I'm a first student of master degree in National Technical University of Ukraine Igor Sikorsky Kyiv polytechnic institute. I'm studying in the informatics and calculation techniques department. I Specialize in hardware engineering.
+- I’m currently working with ReactJS and FastAPI
 - I consider myself as a people person, so I like to meet new people and meet new challenges, solov problems.
 
 - ### :hammer_and_wrench: Languages and Tools :
@@ -18,10 +18,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 
 - ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Danoonka&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Danoonka&theme=dark&background=000000)](https://git.io/streak-stats)
   
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danoonka&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danoonka&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 Danoonka/Danoonka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
