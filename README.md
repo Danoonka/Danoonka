@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bohdana Ostrovska
-- I'm a first student of master degree in National Technical University of Ukraine Igor Sikorsky Kyiv polytechnic institute. I'm studying in the informatics and calculation techniques department. I Specialize in hardware engineering.
+- I'm studying in the informatics and calculation techniques department. I Specialize in hardware engineering.
 - I’m currently working with ReactJS and FastAPI
 - I consider myself as a people person, so I like to meet new people and meet new challenges, solov problems.
 
